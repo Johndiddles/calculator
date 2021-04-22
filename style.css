@@ -57,8 +57,11 @@ body{
     background-color: #a5a5a5 ;
 }
 .operator:hover, .number:hover{
-    background-color: #00ffba;
+    background-color: #22222b;
     cursor: pointer;
+    font-size: 1.2em;
+	transition: font-size 1s;
+	color: white;
 }
 .equals{
     height: 8em;
