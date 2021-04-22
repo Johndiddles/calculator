@@ -61,7 +61,7 @@ body{
 .operator:hover, .number:hover{
     background-color: #22222b;
     cursor: pointer;
-    font-size: 1.2em;
+    font-size: 1.5em;
 	overflow: hidden;
 	transition: 1s;
 	color: gray;
