@@ -45,8 +45,8 @@ body{
 }
 
 .operator, .number{
-	max-width: 3.5em;
-	max-height: 3.5em;
+	width: 3.5em;
+	height: 3.5em;
 	margin: 10px;
 	float: left;
     border: none;
