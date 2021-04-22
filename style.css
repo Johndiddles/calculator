@@ -64,8 +64,9 @@ body{
     font-size: 1.05em;
 	overflow: hidden;
 	transition: 1s;
-	color: white;
+	color: gray;
 	text-align: center;
+	font-weight: 700;
 }
 .equals{
     height: 8em;
